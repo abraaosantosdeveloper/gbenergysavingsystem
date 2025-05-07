@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8e310fd1-2b9b-4a83-8c0b-8c5f89d60352)# ⚡ GBES² – *Ghost Buster Energy Saving System*
 
 ### “Caçando desperdícios invisíveis para salvar energia, dinheiro e o planeta.”
 
