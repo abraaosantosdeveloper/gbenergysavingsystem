@@ -77,7 +77,8 @@ O **GBES²** utiliza um **Arduino** com sensor de corrente para:
 ---
 ## Esquema do projeto
 
-![ChatGPT Image May 7, 2025, 09_16_02 AM](https://github.com/user-attachments/assets/a7ed6927-81b4-4f0c-b0cf-2c47e3d31143)
+![Ghost Buster - Energy Saving System](https://github.com/user-attachments/assets/d9677084-83b8-4a6a-ad5e-8e775ac69378)
+
 
 
 ---
