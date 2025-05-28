@@ -147,5 +147,10 @@ Com baixo custo e alta aplicabilidade, o sistema **combate o desperdício**, pro
 
 ---
 
-## 👨‍🔧 Autor:  
-*Abraão Filipi dos Santos – Tópicos de engenharia 1*  
+## 👨‍🔧 Grupo:  
+*Abraão Filipi dos Santos* </br>
+*Bruno Parente Pereira Novaes* </br>
+*Miguel Capeleiro Costa* </br>
+*Dominick Marcus Almeida* </br>
+*Eduardo Mendes da Silva* </br>
+*Alessandro Gomes de Oliveira Pereira*  
